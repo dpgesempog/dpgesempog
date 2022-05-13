@@ -23,3 +23,7 @@
   <a href="https://sempog.portovelho.ro.gov.br/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href = "mailto:dpge.sempog@portovelho.ro.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
+
+##
+ 
+  ![Snake animation](https://github.com/dpgesempog/dpgesempog/blob/output/github-contribution-grid-snake.svg)  
