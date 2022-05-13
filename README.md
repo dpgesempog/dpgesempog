@@ -4,9 +4,10 @@
 <div>
   <a href="https://github.com/dpgesempog">
   <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ffalves1998&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="dpgesempog" width="410">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dpgesempog&theme=rose_pine&show_icons=true" alt="dpgesempog" width="410">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpgesempog&layout=compact&langs_count=7&theme=rose_pine"" alt="dpgesempog" width="410">   
    </p>
-</div>
+</div> 
  
   ##
 
